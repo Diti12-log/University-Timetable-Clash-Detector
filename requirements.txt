@@ -1,0 +1,2 @@
+# No third-party packages are required.
+# Python standard library modules are used (csv, os, tkinter, datetime, itertools).
