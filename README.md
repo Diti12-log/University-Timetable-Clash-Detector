@@ -56,7 +56,7 @@ University-Timetable-Clash-Detector/
 4. Run:
 
 ```bash
-python gui_app.py
+python app.py
 ```
 
 The application loads `data/timetable.csv` automatically when that file is present.
